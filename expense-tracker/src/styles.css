@@ -1,0 +1,14 @@
+/* Global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
